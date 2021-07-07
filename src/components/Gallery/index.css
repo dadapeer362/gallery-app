@@ -1,0 +1,33 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.thumbnail-item-container {
+  margin-left: 30px;
+  padding-top: 50px;
+}
+
+.heading-nature {
+  font-family: 'Roboto';
+  color: #000000;
+  margin-left: 30px;
+}
+
+.paragraph-nature {
+  color: #64748b;
+  margin-left: 30px;
+  font-family: 'Roboto';
+}
+
+.img-style {
+  width: 450px;
+  height: 350px;
+  border-radius: 15px;
+}
+
+.gallery-pics {
+  display: flex;
+  flex-direction: row;
+}
